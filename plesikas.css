@@ -1,0 +1,76 @@
+.body {
+    background-color: #EBFE71; 
+    width: 800px; 
+    margin-left: calc(50% - 400px); 
+    display: inline-block;
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+    .header {
+        width: 800px; 
+        display: inline-block;
+    }
+        .antraste {
+            display: inline-block;
+            width: 50px;
+            font-size: 10px;
+            margin-left: 130px;
+            color: #B8C269;
+        }
+        .logo {
+            display: inline-block;
+            margin-top: 10px;
+        }
+    .main {
+
+    }
+        .pagrindinislogo {
+            width: 400px; 
+            display: inline-block;
+            margin-left: 200px;
+        }
+        .uzrasai {
+            display: inline-block;
+            width: 400px;
+            margin-left: 200px;
+            text-align: center;
+        }
+            .pagrindinisuzrasas {
+                display: inline-block;
+                margin-left: 20px;
+                margin-bottom: 10px;
+                text-transform: uppercase;
+                font-size: 37px;
+                color: #0E192D;
+            }
+            .pastraipa {
+                display: inline-block;
+                margin-bottom: 20px;
+                font-size: 10px;
+                line-height: 15px;
+                width: 300px;
+                color: #9DAC59;
+            }
+        .mygtukai {
+            display: inline-block;
+            width: 400px;
+            margin-left: 200px;
+            text-align: center;
+        }
+            .mygtukas {
+                display: inline-block;
+                line-height: 20px;
+                text-decoration: none;
+                margin-left: 20px;
+                margin-top: 10px;
+                text-transform: uppercase;
+                background-color: #FFAD1F;
+                color: white;
+                padding: 10px;
+                border-radius: 7px;
+
+            }
+                .mygtukas-kitaspalva {
+                background-color: #FE7201;
+
+                }
